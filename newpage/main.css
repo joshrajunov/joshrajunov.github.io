@@ -11,3 +11,35 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.nunito-body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+body {
+    margin-left: 10px;
+}
+div {
+    border-style: solid;
+    border: 1px solid black;
+  }
+  h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-link {
+    font-family: 'Nunito', sans-serif;
+}
