@@ -21,10 +21,12 @@ h1 {
 body {
     margin-left: 10px;
 }
-div {
-    border-style: solid;
-    border: 1px solid black;
-  }
+
+/* div { */
+    /* border-style: solid; */
+    /* border: 1px solid black; */
+  /* } */
+
   h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 3rem;
